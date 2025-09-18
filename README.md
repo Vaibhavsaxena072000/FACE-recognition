@@ -31,5 +31,15 @@ Provides image processing functions (cv2.putText, cv2.imshow, cv2.VideoCapture).
 
 Draws "MATCH" / "NO MATCH" text on the video frame.
 
-Install with:
+3. deepface
+
+Main library for facial recognition, verification, and analysis.
+
+DeepFace.verify() compares the live webcam frame with your reference image.
+
+Under the hood, it can use multiple face detectors (like RetinaFace, OpenCV, Dlib, MTCNN).
+
+4. tensorflow / tf-keras
+
+DeepFace depends on TensorFlow to run its deep learning models.
 
