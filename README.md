@@ -1,6 +1,5 @@
 # Face Recognition
-
-1) Save the script as face_recog.py in E:/my python/.
+1)Save the script as face_recog.py in E:/my python/.
 
 2)Put your image file there too: E:/my python/vaibhav down.jpg.
  
